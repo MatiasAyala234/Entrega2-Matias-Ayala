@@ -4,7 +4,7 @@
     background-color: rgb(0, 133, 170);
     text-align: center;
     background-size: cover;
-    background-image: url(.css/img/DBZ/nubes.png);
+    background-image: url(./css/img/dbz/nubes.png);
     background-size: 200px;
     
    
@@ -85,7 +85,7 @@ main
     width: 100%;
     min-width: 500px;
     min-height: 500px;
-    background-image: url(./css/img/dbz/fondo.jpg);
+    background-image: url(../css/img/dbz/fondo.jpg);
     background-size: cover; 
     background-position: center; 
     background-repeat: no-repeat;
